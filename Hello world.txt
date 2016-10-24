@@ -1,5 +1,5 @@
-print ("Hello world")
-gogogo
-print ("Hello world124124")
-print ("Hello world112344")
-branch changes
+print ("Hello world");
+gogogo;
+print ("Hello world124124");
+print ("Hello world112344");
+branch changes;
